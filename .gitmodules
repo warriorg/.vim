@@ -28,3 +28,6 @@
 [submodule "pack/plugins/start/LeaderF"]
 	path = pack/plugins/start/LeaderF
 	url = https://github.com/Yggdroot/LeaderF
+[submodule "pack/plugins/start/YouCompleteMe"]
+	path = pack/plugins/start/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
