@@ -13,9 +13,6 @@
 [submodule "pack/plugins/start/syntastic"]
 	path = pack/plugins/start/syntastic
 	url = https://github.com/vim-syntastic/syntastic.git
-[submodule "pack/plugins/start/neocomplete.vim"]
-	path = pack/plugins/start/neocomplete.vim
-	url = https://github.com/Shougo/neocomplete.vim
 [submodule "pack/plugins/start/nerdcommenter"]
 	path = pack/plugins/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
@@ -31,3 +28,6 @@
 [submodule "pack/plugins/start/YouCompleteMe"]
 	path = pack/plugins/start/YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe
+[submodule "pack/plugins/opt/vim-solarized8"]
+	path = pack/plugins/opt/vim-solarized8
+	url = https://github.com/lifepillar/vim-solarized8.git
