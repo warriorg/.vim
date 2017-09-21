@@ -10,9 +10,6 @@
 [submodule "pack/plugins/start/tagbar"]
 	path = pack/plugins/start/tagbar
 	url = https://github.com/majutsushi/tagbar
-[submodule "pack/plugins/start/syntastic"]
-	path = pack/plugins/start/syntastic
-	url = https://github.com/vim-syntastic/syntastic.git
 [submodule "pack/plugins/start/nerdcommenter"]
 	path = pack/plugins/start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter
@@ -31,3 +28,6 @@
 [submodule "pack/plugins/opt/vim-solarized8"]
 	path = pack/plugins/opt/vim-solarized8
 	url = https://github.com/lifepillar/vim-solarized8.git
+[submodule "pack/plugins/start/ale"]
+	path = pack/plugins/start/ale
+	url = https://github.com/w0rp/ale.git
